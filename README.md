@@ -1,4 +1,4 @@
-# Hi, I'm Bartosz Kulpa 👋
+# Hi, I'm Bartosz
 
 Implementation Engineer and Technical Consultant with 7+ years of professional IT experience in enterprise application implementations, technical support, system integration and advanced troubleshooting.
 
