@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Bartosz Kulpa 👋
 
-<!--
-**bkulpa/bkulpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Implementation Engineer and Technical Consultant with 7+ years of professional IT experience in enterprise application implementations, technical support, system integration and advanced troubleshooting.
 
-Here are some ideas to get you started:
+## Core Areas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Privileged Access Management (PAM)
+- Active Directory
+- SQL & Microsoft SQL Server
+- Enterprise Application Implementation
+- System Integration
+- Technical Support & Troubleshooting
+- Automation
+
+## Technologies
+
+**Enterprise & Infrastructure**  
+PAM360 • Active Directory • Windows Server • Linux • Docker
+
+**Databases**  
+Microsoft SQL Server • Oracle SQL • PostgreSQL • MySQL
+
+**Automation & Development**  
+PowerShell • JavaScript • Python • REST APIs
+
+**Security & Access**  
+Privileged Access Management • SSL/TLS • Certificates • Access Management
+
+## Selected Project
+
+### Weather Station
+Python application integrating with the IMGW API and storing weather data in MySQL, tested in a Docker-based environment.
+
+## Currently Working On
+
+**LabGuard** — Privileged Exposure & Vulnerability Intelligence Platform  
+A personal project focused on PAM, asset discovery, vulnerability intelligence, automation and homelab infrastructure.
+
+## Links
+
+🌐 [bkulpa.pl](https://bkulpa.pl)  
+💼 [LinkedIn](https://www.linkedin.com/in/bartosz-kulpa)
